@@ -1,5 +1,5 @@
 # Time-Series-Analaysis
-ARMA, ARIMA, SARIMA
+LSTM, ARMA, ARIMA, SARIMA, LSTM
 
 
 Across industries, organizations commonly use time series data, which means any information collected over a regular interval of time, in their operations. Examples include daily stock prices, energy consumption rates, social media engagement metrics and retail demand, among others. Analyzing time series data yields insights like trends, seasonal patterns and forecasts into future events that can help generate profits. For example, by understanding the seasonal trends in demand for retail products, companies can plan promotions to maximize sales throughout the year.
